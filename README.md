@@ -1,6 +1,9 @@
 # google_maps
 
-A new Flutter project.
+Flutter integrate with google maps API, geolocator(location discovery), geodecoding(coordinate to address), googlemaps(painting maps on flutter)
+TODO:
+Config for IOS app
+
 
 ## Getting Started
 
